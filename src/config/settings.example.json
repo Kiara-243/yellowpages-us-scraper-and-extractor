@@ -1,0 +1,8 @@
+{
+  "base_url": "https://www.yellowpages.com",
+  "user_agent": "YellowpagesScraperBot/1.0 (+https://bitbash.dev)",
+  "timeout_seconds": 15,
+  "max_pages_per_search": 5,
+  "retry_attempts": 2,
+  "retry_backoff_seconds": 1.5
+}
