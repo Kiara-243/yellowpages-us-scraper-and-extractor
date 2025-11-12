@@ -1,0 +1,36 @@
+[
+  {
+    "name": "ZaSpa",
+    "address": "2332 Something St Dallas, TX 75201",
+    "phone": "(222) 222-2222",
+    "email": "example@hotelzaza.com",
+    "website": "https://www.hotelzaza.com/",
+    "ratings": {
+      "yellowpages": "8",
+      "tripadvisor": "3"
+    },
+    "categories": [
+      "Day Spas",
+      "Beauty Salons",
+      "Hair Removal"
+    ],
+    "hours": [
+      {
+        "day": "Mon - Sat:",
+        "time": "9:00 am - 8:00 pm"
+      }
+    ],
+    "gallery": [
+      "https://i2.ypcdn.com/blob/6e8975e0722b9001f7a8cfd5d8c70c48a45366d5_228x168_crop.jpg"
+    ],
+    "ypReviews": [
+      {
+        "reviewer": "staciesellers28",
+        "reviewDate": "03/05/2013",
+        "reviewRating": 0,
+        "reviewContent": "Alexis, as always, was wonderful help when making my reservation."
+      }
+    ],
+    "generalInfo": "ZaSpa Dallas is a day spa that features sitting areas and treatment rooms."
+  }
+]
