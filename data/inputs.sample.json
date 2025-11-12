@@ -1,0 +1,12 @@
+{
+  "keywords": [
+    "day spa",
+    "beauty salon"
+  ],
+  "locations": [
+    "Dallas, TX"
+  ],
+  "max_results_per_keyword": 50,
+  "sort_by": "best_match",
+  "output_format": "json"
+}
